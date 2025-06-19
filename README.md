@@ -51,10 +51,3 @@ Author
 
 Shivam Sharma
 
-Future Work
------------
-
-- Hyperparameter tuning
-- Model persistence (save/load models)
-- Feature importance visualization
-- Automated target column detection
